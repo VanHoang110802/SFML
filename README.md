@@ -18,4 +18,6 @@
 
 ![bandicam 2025-09-05 09-53-03-625](https://github.com/user-attachments/assets/3e2dd9c8-e7ef-42e8-b6b8-41ba812e814f)
 
-- Mình sẽ không chọn cái này vì nó là bản lỗi thời rồi, không có nhiều cái hỗ trợ như bản trên, vậy nên cứ tạo 1 project mới như bình thường
+- Mình sẽ không chọn cái này vì nó là bản lỗi thời rồi, không có nhiều cái hỗ trợ như bản trên, vậy nên cứ tạo 1 project mới như bình thường:
+
+![bandicam 2025-09-05 09-56-03-655](https://github.com/user-attachments/assets/ba647f9c-f670-420e-b759-d2ac36298498)
