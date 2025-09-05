@@ -1,4 +1,4 @@
-![bandicam 2025-09-05 10-39-59-870](https://github.com/user-attachments/assets/ed74c987-f30c-42a9-a60f-cb746bc76f7e)# SFML Code::blocks
+# SFML Code::blocks
 
 ## Dowload
 - [link web](https://www.sfml-dev.org/download/sfml/2.6.2/)
