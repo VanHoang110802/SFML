@@ -25,3 +25,73 @@
 - Hãy chắc chắn rằng chương trình mặc định build + compiler thành công:
 
 ![bandicam 2025-09-05 10-03-08-154](https://github.com/user-attachments/assets/3800eb7a-520e-4e50-9a8f-3dc6132afe91)
+
+- Sau đó vào setting:
+
+![bandicam 2025-09-05 10-20-04-452](https://github.com/user-attachments/assets/787e8d81-99f7-4bb3-b58e-6007f3c3bfd2)
+
+- Sau đó chọn:
+
+![bandicam 2025-09-05 10-21-17-860](https://github.com/user-attachments/assets/feecb7e0-9470-4db6-b54b-e14b4af930f6)
+
+- Sau đó chọn
+
+![bandicam 2025-09-05 10-22-48-819](https://github.com/user-attachments/assets/c33424ac-a3a7-4111-a3a7-fb0b7626beaf)
+
+- Sau đó chọn thay đổi lại đường dẫn cho mingw64 rồi nhấn ok:
+
+![bandicam 2025-09-05 10-24-02-279](https://github.com/user-attachments/assets/454d8d40-8113-46e1-9445-e4b1c131fb76)
+
+- Sau đó build + run lại để xác nhận ok:
+
+![bandicam 2025-09-05 10-26-25-622](https://github.com/user-attachments/assets/a062c105-cb1e-4f36-b052-bec24010b17c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
