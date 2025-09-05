@@ -1,4 +1,4 @@
-# SFML Code::blocks
+![bandicam 2025-09-05 10-39-59-870](https://github.com/user-attachments/assets/ed74c987-f30c-42a9-a60f-cb746bc76f7e)# SFML Code::blocks
 
 ## Dowload
 - [link web](https://www.sfml-dev.org/download/sfml/2.6.2/)
@@ -54,51 +54,93 @@
 
 ![bandicam 2025-09-05 10-29-20-022](https://github.com/user-attachments/assets/5aaa52fe-15d4-4788-bc66-5fd5caaf8ae5)
 
+- Mặc định nó sẽ ở mục debug:
 
+![bandicam 2025-09-05 10-30-46-546](https://github.com/user-attachments/assets/d647fd93-a91a-43d6-917e-de4362b930c1)
 
+- Giờ sẽ chuyển sang mục bao quát nhất cho cả 2 thằng này là mục trên cùng:
 
+![bandicam 2025-09-05 10-32-09-124](https://github.com/user-attachments/assets/d6d0c90f-33b8-414b-a82e-0c4c23913b3a)
 
+- Sau đó chọn mục Search directories
 
+![bandicam 2025-09-05 10-32-37-879](https://github.com/user-attachments/assets/ea26562b-5881-479b-ba0c-7924a2ce580b)
 
+- Sau đó, chỉnh sửa lại đường dẫn cho mục compiler, chọn mục include:
 
+![bandicam 2025-09-05 10-35-08-727](https://github.com/user-attachments/assets/db93ba4a-ba38-4d25-b48b-4575baf7a425)
 
+- Tiếp:
 
+![bandicam 2025-09-05 10-35-57-887](https://github.com/user-attachments/assets/be09a164-0dce-441f-a12b-5e4bc5879f2c)
 
+- Tiếp đó chọn no rồi ok, ok...
 
+![bandicam 2025-09-05 10-37-05-858](https://github.com/user-attachments/assets/e89c3bc2-9a22-40c7-a3f3-81c4f745548e)
 
+- Tương tự với linker bên cạnh nhưng chọn mục lib:
 
+![bandicam 2025-09-05 10-38-54-129](https://github.com/user-attachments/assets/22103cd4-2b3a-4f01-b8a9-a3a4bb3a0359)
 
+- Ok, giờ chuyển sang mục debug:
 
+![bandicam 2025-09-05 10-39-59-870](https://github.com/user-attachments/assets/b237f425-061c-4314-b3f7-57997094d314)
 
+- Tiếp tục với mục này thì vào phần linker setting, thêm các mục sau vào rồi nhấn ok (nhớ gõ phải đúng từng ký tự):
 
+![bandicam 2025-09-05 10-41-51-515](https://github.com/user-attachments/assets/bd951c70-adf9-4843-853c-6791e1be3c2a)
 
+- Nếu có cả release thì thêm như này:
 
+![bandicam 2025-09-05 10-42-54-275](https://github.com/user-attachments/assets/4a63860a-53c6-42ee-ad16-2dd778eabbbe)
 
+- Sau đó, bước cuối cùng để chạy được đồ họa thì cần phải chạy được các phần hỗ trợ cho chương trình hoạt động về đồ họa:
 
+![bandicam 2025-09-05 10-44-41-349](https://github.com/user-attachments/assets/d2ed28d3-1a9c-4fd2-8dcf-77b5c6ac491d)
 
+- Sau đó, copy toàn bộ:
 
+![bandicam 2025-09-05 10-45-19-986](https://github.com/user-attachments/assets/eb0e5401-6b17-4abe-8ce9-36e942debf15)
 
+- Sau đó vào mục có chứa file .exe:
 
+![bandicam 2025-09-05 10-46-10-333](https://github.com/user-attachments/assets/c5afb602-dd7e-422f-a137-f3d471911db0)
 
+- Paste vào:
 
+![bandicam 2025-09-05 10-47-01-441](https://github.com/user-attachments/assets/2793af1a-3f3a-45df-a6b4-ae4ff16d3b41)
 
+- Cuối cùng chạy thử với code test mẫu sau:
 
+```cpp
+#include <SFML/Graphics.hpp>
 
+int main()
+{
+    sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
+    sf::CircleShape shape(100.f);
+    shape.setFillColor(sf::Color::Green);
 
+    while (window.isOpen())
+    {
+        sf::Event event;
+        while (window.pollEvent(event))
+        {
+            if (event.type == sf::Event::Closed)
+                window.close();
+        }
 
+        window.clear();
+        window.draw(shape);
+        window.display();
+    }
 
+    return 0;
+}
 
+```
 
-
-
-
-
-
-
-
-
-
-
+![bandicam 2025-09-05 10-48-41-205](https://github.com/user-attachments/assets/e154f4fe-b135-4e9f-844b-c2f133313552)
 
 
 
