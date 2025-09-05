@@ -9,6 +9,13 @@
 - Cài codeblocks, sau đó giải nén 2 file:
 
 ![bandicam 2025-09-05 09-46-16-118](https://github.com/user-attachments/assets/a61f62a3-6503-4063-963b-d6b0ae8fc5c5)
+
 - Giải nén xong sẽ như này:
 
  ![bandicam 2025-09-05 09-48-13-638](https://github.com/user-attachments/assets/aa7181e1-95cc-4367-9bb1-096e467219a3)
+
+- Mở codeblocks lên, khi tạo 1 project mới, lướt xuống dưới sẽ thấy:
+
+![bandicam 2025-09-05 09-53-03-625](https://github.com/user-attachments/assets/3e2dd9c8-e7ef-42e8-b6b8-41ba812e814f)
+
+- Mình sẽ không chọn cái này vì nó là bản lỗi thời rồi, không có nhiều cái hỗ trợ như bản trên, vậy nên cứ tạo 1 project mới như bình thường
