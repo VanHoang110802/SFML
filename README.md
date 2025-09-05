@@ -46,6 +46,14 @@
 
 ![bandicam 2025-09-05 10-26-25-622](https://github.com/user-attachments/assets/a062c105-cb1e-4f36-b052-bec24010b17c)
 
+- Sau đó chú ý đến tên project ở dưới workspace:
+
+![bandicam 2025-09-05 10-28-01-890](https://github.com/user-attachments/assets/96b205ef-e456-4896-85d2-59aa157cf0ed)
+
+- Tiếp đó chọn Build options...
+
+![bandicam 2025-09-05 10-29-20-022](https://github.com/user-attachments/assets/5aaa52fe-15d4-4788-bc66-5fd5caaf8ae5)
+
 
 
 
