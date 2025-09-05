@@ -21,3 +21,7 @@
 - Mình sẽ không chọn cái này vì nó là bản lỗi thời rồi, không có nhiều cái hỗ trợ như bản trên, vậy nên cứ tạo 1 project mới như bình thường:
 
 ![bandicam 2025-09-05 09-56-03-655](https://github.com/user-attachments/assets/ba647f9c-f670-420e-b759-d2ac36298498)
+
+- Hãy chắc chắn rằng chương trình mặc định build + compiler thành công:
+
+![bandicam 2025-09-05 10-03-08-154](https://github.com/user-attachments/assets/3800eb7a-520e-4e50-9a8f-3dc6132afe91)
